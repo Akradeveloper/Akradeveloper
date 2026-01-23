@@ -70,6 +70,15 @@
 
 ---
 
+## 📊 Full metrics (public + private*)
+<p align="center">
+  <img src="./github-metrics.svg" alt="metrics" />
+</p>
+
+\* Private repos are included only in aggregated stats (no private repo names exposed).
+
+---
+
 ## 🤝 Contacto / Contact
 - LinkedIn: https://www.linkedin.com/in/endika-santamaria-lago/
 - Email: akradeveloper@gmail.com
